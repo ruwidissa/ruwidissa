@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.linkedin.com/in/ruwin-dissanayake/">「 Google Me 」</a>
+    <a href="https://www.linkedin.com/in/ruwin-dissanayake/">「 LinkedIn 」</a>
     <br>
     「 I am a Second year Undergraduate from <b>Sri Lanka</b> 」
     <br>
@@ -103,7 +103,7 @@
 
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/urfolio)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/web-projects)
 [![Ruwin Dissanayake  Readme](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=ruwidissa&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/ruwidissa)
 
