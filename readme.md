@@ -89,7 +89,7 @@
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hasmalee/sdgp_project/tree/Frontend)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/Online-shopping-system-Java-Swing)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/Online-Shopping-Website)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=Online-Shopping-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/Online-Shopping-Website)
 [![Ruwin Dissanayake  Readme](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=ruwidissa&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/Progression-Outcome-System-Python)
 
 <p align="left">
