@@ -12,12 +12,14 @@
 
  -->
 
+
+
+ 
+<!--
  <a href="https://komarev.com/ghpvc/?username=ruwidissa">
   <img align="right" src="https://komarev.com/ghpvc/?username=ruwidissa&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
-
-
+ -->
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
@@ -43,7 +45,7 @@
  <a href="https://ruwidissa.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ruwidissa" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/ruwidissa" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ruwidissa"/>
  </a>
  <!-- <a href="https://dev.to/ruwidissa" target="_blank">
@@ -87,7 +89,7 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/itasks)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hasmalee/sdgp_project/tree/Frontend)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/web-projects)
 [![Ruwin Dissanayake  Readme](https://github-readme-stats.vercel.app/api/pin/?username=ruwidissa&repo=ruwidissa&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruwidissa/ruwidissa)
