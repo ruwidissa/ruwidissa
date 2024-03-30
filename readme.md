@@ -108,7 +108,7 @@
 
 <p align="center">
   <a href="https://github.com/ruwidissa">
-    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruwidissa&theme=default)" alt="Ruwin Dissanayake's GitHub Contribution"/>
+    <img src="(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruwidissa&theme=default)" alt="Ruwin Dissanayake's GitHub Contribution"/>
   </a>
 </p>
 <a> 
