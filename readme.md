@@ -104,6 +104,7 @@
   <a href="https://github.com/ruwidissa">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruwidissa&theme=radical&border=7F3FBF&background=0D1117" alt="Ruwin's GitHub streak"/>
   </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruwidissa&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
