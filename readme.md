@@ -24,7 +24,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://ruwidissa.com">Ruwin Dissanayake </a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/ruwin-dissanayake">Ruwin Dissanayake </a></b>
         </samp>
 </h3>
 
@@ -108,7 +108,7 @@
 
 <p align="center">
   <a href="https://github.com/ruwidissa">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruwidissa&theme=radical" alt="Ruwin Dissanayake's GitHub Contribution"/>
+    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruwidissa&theme=default)" alt="Ruwin Dissanayake's GitHub Contribution"/>
   </a>
 </p>
 <a> 
