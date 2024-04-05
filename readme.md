@@ -43,6 +43,9 @@
   <a href="https://www.behance.net/ruwidissa" target="_blank">
   <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="ruwidissa"/>
  </a>
+  <a href="https://medium.com/@ruwinsachintha" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="ruwidissa"/>
+ </a>
  <a href="https://ruwidissa.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ruwidissa" />
  </a>
