@@ -49,9 +49,9 @@
  <a href="https://ruwidissa.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ruwidissa" />
  </a>
- <a href="https://linkedin.com/in/ruwidissa" target="_blank">
+<!--  <a href="https://linkedin.com/in/ruwidissa" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ruwidissa"/>
- </a>
+ </a> -->
  <!-- <a href="https://dev.to/ruwidissa" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ruwidissa" />
  </a> -->
