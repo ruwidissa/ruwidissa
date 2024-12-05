@@ -33,7 +33,7 @@
   <samp>
     <a href="https://www.linkedin.com/in/ruwin-dissanayake/">「 LinkedIn 」</a>
     <br>
-    「 I am a Second year Undergraduate from <b>Informatics Institute of Technology(IIT)</b> 」
+    「 I am a Undergraduate from <b>Informatics Institute of Technology(IIT)</b> 」
     <br>
     <br>
   </samp>
